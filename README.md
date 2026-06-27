@@ -107,6 +107,14 @@ Description: Developed a computer vision application capable of detecting and re
 
 What it shows: Demonstrates strong knowledge of computer vision, image processing, facial recognition techniques, feature engineering, and machine learning workflows. Highlights the ability to work with real-world visual data, build intelligent recognition systems, and apply AI-driven solutions for identity verification and surveillance-related applications.
 
+🔟 PROJECT 10-MARKET ANALYSIS    
+
+Description:
+Developed an end-to-end market intelligence and analytics solution by collecting industrial pump market data through web scraping, followed by data preprocessing, sentiment analysis, topic modeling, and exploratory data analysis using Python. Applied NLP and machine learning techniques to extract business insights from news articles and market reports while visualizing trends through interactive charts and statistical analyses.
+
+What it shows:
+Demonstrates strong knowledge of web scraping, natural language processing (NLP), data preprocessing, sentiment analysis, topic modeling, exploratory data analysis (EDA), and data visualization. Highlights the ability to collect and analyze unstructured and structured data, uncover market trends, generate actionable business insights, and build data-driven solutions for competitive intelligence, market research, and predictive maintenance applications.
+
 
 
 👤 About Me
