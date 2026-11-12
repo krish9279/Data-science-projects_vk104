@@ -110,14 +110,11 @@ What it shows: Demonstrates strong knowledge of computer vision, image processin
 🔟 Market Analysis    
 
 Description:
-Developed an end-to-end market intelligence and analytics solution by collecting industrial pump market data through web scraping, followed by data preprocessing, sentiment analysis, topic modeling, and exploratory data analysis using Python. Applied NLP and machine learning techniques to extract business insights from news articles and market reports while visualizing trends through interactive charts and statistical analyses.
+Developed an end-to-end market intelligence and analytics solution by collecting industrial pharma market data through web scraping and data extraction from magazine-pdf files followed by data preprocessing, sentiment analysis, topic modeling, and exploratory data analysis using Python. Applied NLP and machine learning techniques to extract product insights from magazine reports while visualizing trends through interactive charts and statistical analyses.
 
 What it shows:
 Demonstrates strong knowledge of web scraping, natural language processing (NLP), data preprocessing, sentiment analysis, topic modeling, exploratory data analysis (EDA), and data visualization. Highlights the ability to collect and analyze unstructured and structured data, uncover market trends, generate actionable business insights, and build data-driven solutions for competitive intelligence, market research, and predictive maintenance applications.
 
-This analysis explores textual information from Grundfos Connect Asset Monitor webpages and related documents, with particular attention to cloud-based connectivity, asset monitoring, security, and digital services. The collected textual data was processed using Python and NLP techniques, including sentence extraction, word-frequency analysis, Named Entity Recognition (NER), and topic modelling using Latent Dirichlet Allocation (LDA). spaCy’s displaCy visualisation was used to highlight and identify entities within the text, helping to identify important organisations, locations, products, and other named entities associated with Grundfos Connect and its applications. The analysis also examined sentences containing the term “cloud” to understand its context within the platform, particularly in relation to connected assets, data, communication, and digital infrastructure. Overall, the analysis provides an NLP-based overview of the key concepts, entities, and themes present in the textual information surrounding Grundfos Connect Asset Monitor.
-
-The analysis further examined the use of cloud-related terminology to identify how cloud technologies are discussed in the context of connected assets, data management, communication, and remote monitoring.
 
 👤 About Me
 
